@@ -17,6 +17,6 @@
     "tslint": "^5.12.1"
   },
   "devDependencies": {
-    "eslint": "^5.12.1"
+    "tslint": "^5.12.1"
   }
 }
