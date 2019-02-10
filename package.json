@@ -1,6 +1,6 @@
 {
   "name": "@jukben/tslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My personal, opinionated TSlint config",
   "license": "MIT",
   "author": "Jakub Benes <jukben@gmail.com>",
