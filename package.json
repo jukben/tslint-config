@@ -1,0 +1,22 @@
+{
+  "name": "@jukben/tslint-config",
+  "version": "0.0.1",
+  "description": "My personal, opinionated TSlint config",
+  "license": "MIT",
+  "author": "Jakub Benes <jukben@gmail.com>",
+  "main": "tslint-config.json",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-react": "^3.6.0"
+  },
+  "peerDependencies": {
+    "tslint": "^5.12.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1"
+  }
+}
